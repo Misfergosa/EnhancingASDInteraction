@@ -1,4 +1,12 @@
 # EnhancingASDInteraction
+Introduction:
+
+
+
+The (WHO) estimated that worldwide about 1 in 100 children
+
+According to General Authority for Statistics in August 2023  the number of autism cases in SA is estimated to be around 60,000.
+
 
 This data was used for emaotion detiction:
 https://universe.roboflow.com/search?q=facial%20expression
