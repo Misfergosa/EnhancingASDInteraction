@@ -32,19 +32,20 @@ Personalized Interaction: The robot can be customized to suit the individual's p
 Emotional and Social Skills Development: The robot is designed to help individuals with ASD develop essential emotional and social skills, such as recognizing and expressing emotions, initiating conversations, and interpreting social cues.
 Sensory-Friendly Design: The robot incorporates sensory-friendly features, such as adjustable lighting, sound, and movement, to create a calming and distraction-free environment for individuals with ASD.
 Caregiver and Educator Support: The system provides resources and training for caregivers, teachers, and other professionals to effectively integrate the robot into various settings and support individuals with ASD in their interactions.
-Usage
+
+## Usage
 To use the robot-based system for enhancing ASD interaction, follow these steps:
 
-## Personalization:
+#### Personalization:
 Work with the project team to customize the robot's appearance, voice, and interaction style to match the individual's preferences and needs.
 Familiarize the individual with the robot and encourage them to engage in regular interactions.
-Emotional and Social Skills Development:
+#### Emotional and Social Skills Development:
 Utilize the robot's interactive features and software to practice emotional recognition, social cues, and conversational skills.
 Participate in guided activities and exercises designed to gradually build the individual's confidence and competence in social interactions.
-Sensory-Friendly Environment:
+#### Sensory-Friendly Environment:
 Ensure the environment where the robot is used is optimized for sensory comfort, following the project's guidelines.
 Collaborate with the project team to make any necessary adjustments to the robot's own sensory features to create a calming and focused atmosphere.
-Caregiver and Educator Support:
+#### Caregiver and Educator Support:
 Engage with the educational materials and training workshops provided by the project team.
 Implement the strategies and techniques learned to effectively support the individual with ASD in their interactions with the robot and in other social settings.
 Communicate with the project team to share feedback and contribute to the ongoing development of the system.
