@@ -67,7 +67,8 @@ We welcome contributions from the community to help expand and enhance the robot
 
 ### Contact via Linkedin
 
-[![Abdullah Althobaiti](![image](https://github.com/Misfergosa/EnhancingASDInteraction/assets/164917055/0b4262da-e496-4f7d-a0a3-a0f86e73bda8))]([https://example.com](https://www.linkedin.com/in/abdullah-althobaiti-0146702a6))
+[![Abdullah Saad](![image](https://github.com/Misfergosa/EnhancingASDInteraction/assets/164917055/47ac13b1-1016-499d-aaac-b65830450f41)
+)]([https://example.co](https://www.linkedin.com/in/abdullah-althobaiti-0146702a6) "Clickable Image")
 
 
 
