@@ -54,10 +54,11 @@ We welcome contributions from the community to help expand and enhance the robot
 
 1. Fork the repository and create a new branch for your contribution.
 2. Implement your changes or additions, ensuring they align with the project's goals and standards.
-   Submit a pull request, and provide a detailed description of your contribution.
-3. Collaborate with the project maintainers to address any feedback or comments.
-   Contact
-4. For any questions, feedback, or inquiries about the project, please reach out to us at email@example.com.
+3. Submit a pull request, and provide a detailed description of your contribution.
+4. Collaborate with the project maintainers to address any feedback or comments.
+
+## Contact
+For any questions, feedback, or inquiries about the project, please reach out to us at 
 
 ## License
 This project is licensed under the MIT License.
