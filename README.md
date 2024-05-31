@@ -36,18 +36,18 @@ Caregiver and Educator Support: The system provides resources and training for c
 ## Usage
 
 #### Personalization:
-Work with the project team to customize the robot's appearance, voice, and interaction style to match the individual's preferences and needs.
-Familiarize the individual with the robot and encourage them to engage in regular interactions.
+- Work with the project team to customize the robot's appearance, voice, and interaction style to match the individual's preferences and needs.
+- Familiarize the individual with the robot and encourage them to engage in regular interactions.
 #### Emotional and Social Skills Development:
-Utilize the robot's interactive features and software to practice emotional recognition, social cues, and conversational skills.
-Participate in guided activities and exercises designed to gradually build the individual's confidence and competence in social interactions.
+- Utilize the robot's interactive features and software to practice emotional recognition, social cues, and conversational skills.
+- Participate in guided activities and exercises designed to gradually build the individual's confidence and competence in social interactions.
 #### Sensory-Friendly Environment:
-Ensure the environment where the robot is used is optimized for sensory comfort, following the project's guidelines.
-Collaborate with the project team to make any necessary adjustments to the robot's own sensory features to create a calming and focused atmosphere.
+- Ensure the environment where the robot is used is optimized for sensory comfort, following the project's guidelines.
+- Collaborate with the project team to make any necessary adjustments to the robot's own sensory features to create a calming and focused atmosphere.
 #### Caregiver and Educator Support:
-Engage with the educational materials and training workshops provided by the project team.
-Implement the strategies and techniques learned to effectively support the individual with ASD in their interactions with the robot and in other social settings.
-Communicate with the project team to share feedback and contribute to the ongoing development of the system.
+- Engage with the educational materials and training workshops provided by the project team.
+- Implement the strategies and techniques learned to effectively support the individual with ASD in their interactions with the robot and in other social settings.
+- Communicate with the project team to share feedback and contribute to the ongoing development of the system.
 
 ## Contributing
 We welcome contributions from the community to help expand and enhance the robot-based system for ASD interaction. If you are interested in contributing, please follow these guidelines:
