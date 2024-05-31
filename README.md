@@ -57,8 +57,8 @@ We welcome contributions from the community to help expand and enhance the robot
 3. Submit a pull request, and provide a detailed description of your contribution.
 4. Collaborate with the project maintainers to address any feedback or comments.
 
-## Contact
+### Contact
 For any questions, feedback, or inquiries about the project, please reach out to us at 
 
-## License
+### License
 This project is licensed under the MIT License.
