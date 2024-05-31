@@ -58,7 +58,7 @@ We welcome contributions from the community to help expand and enhance the robot
 4. Collaborate with the project maintainers to address any feedback or comments.
 
 ### Contact via Linkedin
-<img src="![image](https://github.com/Misfergosa/EnhancingASDInteraction/assets/164917055/569dbdaf-d494-4bc2-9cd4-abf60ebfdd9e)" alt="Description" width="300" height="200">
+<img src="![image](https://github.com/Misfergosa/EnhancingASDInteraction/assets/164917055/569dbdaf-d494-4bc2-9cd4-abf60ebfdd9e)" width="300" height="200">
 
 
 
