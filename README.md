@@ -67,7 +67,10 @@ We welcome contributions from the community to help expand and enhance the robot
 
 ### Contact via Linkedin
 
-[Link Text](https://www.linkedin.com/in/abdullah-althobaiti-0146702a6)
+[Abdullah Althobaiti](https://www.linkedin.com/in/abdullah-althobaiti-0146702a6)
+[Misfer Algosa](http://linkedin.com/in/mesfer-al-gosa-152a7a112)
+[Abdalziz Alhzazi](https://www.linkedin.com/in/abdulaziz-abdullah-b413a2164?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
 
 
 
