@@ -34,7 +34,6 @@ Sensory-Friendly Design: The robot incorporates sensory-friendly features, such 
 Caregiver and Educator Support: The system provides resources and training for caregivers, teachers, and other professionals to effectively integrate the robot into various settings and support individuals with ASD in their interactions.
 
 ## Usage
-To use the robot-based system for enhancing ASD interaction, follow these steps:
 
 #### Personalization:
 Work with the project team to customize the robot's appearance, voice, and interaction style to match the individual's preferences and needs.
