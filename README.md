@@ -22,16 +22,23 @@ Project by:
 3. Abdullah Althobaiti.
 4. Abdulaziz Alhzazi.
 
+---
+
+
 # Enhancing ASD Interaction with a Robot ( رفيقي )
 
 ## Introduction
 This project aims to develop a robot-based system that can improve communication and interaction for individuals with Autism Spectrum Disorder (ASD). The goal is to create a robotic platform that can serve as a trusted companion and facilitate more engaging and meaningful interactions for those with ASD.
+
+---
 
 ## Key Features
 Personalized Interaction: The robot can be customized to suit the individual's preferences, communication style, and sensory needs, creating a more personalized and comfortable interaction experience.
 Emotional and Social Skills Development: The robot is designed to help individuals with ASD develop essential emotional and social skills, such as recognizing and expressing emotions, initiating conversations, and interpreting social cues.
 Sensory-Friendly Design: The robot incorporates sensory-friendly features, such as adjustable lighting, sound, and movement, to create a calming and distraction-free environment for individuals with ASD.
 Caregiver and Educator Support: The system provides resources and training for caregivers, teachers, and other professionals to effectively integrate the robot into various settings and support individuals with ASD in their interactions.
+
+---
 
 ## Usage
 
@@ -48,6 +55,7 @@ Caregiver and Educator Support: The system provides resources and training for c
 - Engage with the educational materials and training workshops provided by the project team.
 - Implement the strategies and techniques learned to effectively support the individual with ASD in their interactions with the robot and in other social settings.
 - Communicate with the project team to share feedback and contribute to the ongoing development of the system.
+---
 
 ## Contributing
 We welcome contributions from the community to help expand and enhance the robot-based system for ASD interaction. If you are interested in contributing, please follow these guidelines:
