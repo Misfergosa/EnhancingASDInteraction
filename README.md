@@ -60,6 +60,8 @@ We welcome contributions from the community to help expand and enhance the robot
 3. Submit a pull request, and provide a detailed description of your contribution.
 4. Collaborate with the project maintainers to address any feedback or comments.
 
+   ---
+
 ### Contact via Linkedin
 
 - [Abdullah Althobaiti](https://www.linkedin.com/in/abdullah-althobaiti-0146702a6)
