@@ -58,7 +58,5 @@ We welcome contributions from the community to help expand and enhance the robot
 4. Collaborate with the project maintainers to address any feedback or comments.
 
 ### Contact
-For any questions, feedback, or inquiries about the project, please reach out to us at 
 
-### License
-This project is licensed under the MIT License.
+
