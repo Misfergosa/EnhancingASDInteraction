@@ -67,7 +67,7 @@ We welcome contributions from the community to help expand and enhance the robot
 
 ### Contact via Linkedin
 
-[Abdullah Althobaiti]([https://www.linkedin.com/in/abdullah-althobaiti-0146702a6])
+[Link Text](https://www.linkedin.com/in/abdullah-althobaiti-0146702a6)
 
 
 
