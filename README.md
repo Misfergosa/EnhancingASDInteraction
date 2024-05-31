@@ -52,12 +52,12 @@ Communicate with the project team to share feedback and contribute to the ongoin
 ## Contributing
 We welcome contributions from the community to help expand and enhance the robot-based system for ASD interaction. If you are interested in contributing, please follow these guidelines:
 
-Fork the repository and create a new branch for your contribution.
-Implement your changes or additions, ensuring they align with the project's goals and standards.
-Submit a pull request, and provide a detailed description of your contribution.
-Collaborate with the project maintainers to address any feedback or comments.
-Contact
-For any questions, feedback, or inquiries about the project, please reach out to us at email@example.com.
+1. Fork the repository and create a new branch for your contribution.
+2. Implement your changes or additions, ensuring they align with the project's goals and standards.
+   Submit a pull request, and provide a detailed description of your contribution.
+3. Collaborate with the project maintainers to address any feedback or comments.
+   Contact
+4. For any questions, feedback, or inquiries about the project, please reach out to us at email@example.com.
 
 ## License
 This project is licensed under the MIT License.
