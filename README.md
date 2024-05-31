@@ -58,9 +58,9 @@ We welcome contributions from the community to help expand and enhance the robot
 4. Collaborate with the project maintainers to address any feedback or comments.
 
 ### Contact via Linkedin
-![image](https://github.com/Misfergosa/EnhancingASDInteraction/assets/164917055/2b000e07-16e3-4bcd-bfd4-5efd7f601587) *Misfer Algosa*
-![image](https://github.com/Misfergosa/EnhancingASDInteraction/assets/164917055/d4cfbe10-811c-4ab1-9bca-74342b06c98b) *Abdallah Althobaiti*
-![image](https://github.com/Misfergosa/EnhancingASDInteraction/assets/164917055/5c211f91-e6e5-4513-bfaa-b6ce7a4ec3d7) *Abdalaziz Alhazazi*
+<img src="![image](https://github.com/Misfergosa/EnhancingASDInteraction/assets/164917055/569dbdaf-d494-4bc2-9cd4-abf60ebfdd9e)" alt="Description" width="300" height="200">
+
+
 
 
 
