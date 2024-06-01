@@ -50,15 +50,7 @@ Caregiver and Educator Support: The system provides resources and training for c
 - Engage with the educational materials and training workshops provided by the project team.
 - Implement the strategies and techniques learned to effectively support the individual with ASD in their interactions with the robot and in other social settings.
 - Communicate with the project team to share feedback and contribute to the ongoing development of the system.
----
 
-## Contributing
-We welcome contributions from the community to help expand and enhance the robot-based system for ASD interaction. If you are interested in contributing, please follow these guidelines:
-
-1. Fork the repository and create a new branch for your contribution.
-2. Implement your changes or additions, ensuring they align with the project's goals and standards.
-3. Submit a pull request, and provide a detailed description of your contribution.
-4. Collaborate with the project maintainers to address any feedback or comments.
 
    ---
 
