@@ -11,11 +11,7 @@ PowerPoint:
 https://www.canva.com/design/DAGF8G0iVDc/9wf_Oziw6-EB0ZmTOQUhXA/edit
 
 
-Project by:
-1. Fahad Alrashidi.
-2. Misfar Algosa.
-3. Abdullah Althobaiti.
-4. Abdulaziz Alhzazi.
+
 
 ---
 
@@ -61,6 +57,9 @@ Caregiver and Educator Support: The system provides resources and training for c
 - [Misfer Algosa](http://linkedin.com/in/mesfer-al-gosa-152a7a112)
 
 - [Abdalziz Alhzazi](https://www.linkedin.com/in/abdulaziz-abdullah-b413a2164?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+
+- Fahad Alrashidi
+
 
 
 
