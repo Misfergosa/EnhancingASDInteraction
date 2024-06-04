@@ -51,7 +51,7 @@ Caregiver and Educator Support: The system provides resources and training for c
 
    ---
 
-### Contact via Linkedin
+### Members Linkedin:
 
 - [Abdullah Althobaiti](https://www.linkedin.com/in/abdullah-althobaiti-0146702a6)
 
