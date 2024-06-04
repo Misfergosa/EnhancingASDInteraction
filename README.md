@@ -16,10 +16,18 @@ This project aims to develop a robot-based system that can improve communication
 
 ---
 
+## Data
+This [Facial Emotion](https://app.roboflow.com/t5-qsano/emotion-xkeuv/deploy) data was used for emaotion detiction:
+
+
+This data was used for game [Rock, paper, scissors](https://universe.roboflow.com/team-roboflow/rock-paper-scissors-detection):
+https://universe.roboflow.com/team-roboflow/rock-paper-scissors-detection
+
+---
 ## Key Features
-Personalized Interaction: The robot can be customized to suit the individual's preferences, communication style, and sensory needs, creating a more personalized and comfortable interaction experience.
-Emotional and Social Skills Development: The robot is designed to help individuals with ASD develop essential emotional and social skills, such as recognizing and expressing emotions, initiating conversations, and interpreting social cues.
-Sensory-Friendly Design: The robot incorporates sensory-friendly features, such as adjustable lighting, sound, and movement, to create a calming and distraction-free environment for individuals with ASD.
+Personalized Interaction: The robot can be customized to suit the individual's preference.
+Emotional and Social Skills Development: The robot is designed to help individuals with ASD develop essential emotional and social skills.
+Sensory-Friendly Design: The robot incorporates sensory-friendly features, such as adjustable lighting, sound, and movement for individuals with ASD.
 Caregiver and Educator Support: The system provides resources and training for caregivers, teachers, and other professionals to effectively integrate the robot into various settings and support individuals with ASD in their interactions.
 
 ---
