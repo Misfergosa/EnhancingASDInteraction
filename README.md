@@ -17,11 +17,11 @@ This project aims to develop a robot-based system that can improve communication
 ---
 
 ## Data
-This [Facial Emotion](https://app.roboflow.com/t5-qsano/emotion-xkeuv/deploy) data was used for emaotion detiction:
+This is the data was used for emaotion detiction: [CLICK](https://app.roboflow.com/t5-qsano/emotion-xkeuv/deploy) 
 
 
-This data was used for game [Rock, paper, scissors](https://universe.roboflow.com/team-roboflow/rock-paper-scissors-detection):
-https://universe.roboflow.com/team-roboflow/rock-paper-scissors-detection
+This data was used for the game [CLICK](https://universe.roboflow.com/team-roboflow/rock-paper-scissors-detection)
+
 
 ---
 ## Key Features
