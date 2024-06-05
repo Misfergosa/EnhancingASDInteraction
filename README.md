@@ -32,7 +32,7 @@ pip install ultralytics
 ## DEMO VIDEO
 
 
-[![Watch the video](https://raw.githubusercontent.com/Misfergosa/EnhancingASDInteraction/Main/RobotInteracting/thumbnail.jpg)](https://raw.githubusercontent.com/Misfergosa/EnhancingASDInteraction/RobotInteracting/Demo.mov)
+[![Watch the video](https://raw.githubusercontent.com/Misfergosa/EnhancingASDInteraction/main/RobotInteracting/thumbnail.jpg)](https://raw.githubusercontent.com/Misfergosa/EnhancingASDInteraction/main/RobotInteracting/Demo.mov)
 
 
 
