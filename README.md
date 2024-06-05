@@ -62,7 +62,7 @@ pip install ultralytics
 
 - [Misfer Algosa](http://linkedin.com/in/mesfer-al-gosa-152a7a112)
 
-- [Abdalziz Alhzazi](https://www.linkedin.com/in/abdulaziz-abdullah-b413a2164?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+- [Abdalaziz Alhzazi](https://www.linkedin.com/in/abdulaziz-abdullah-b413a2164?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 - Fahad Alrashidi
 
