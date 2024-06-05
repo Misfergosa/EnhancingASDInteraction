@@ -22,6 +22,12 @@ This is the data was used for emotion detiction: [Facial Emotion.](https://app.r
 
 This data was used for the game [RPS.](https://universe.roboflow.com/team-roboflow/rock-paper-scissors-detection)
 
+We done it using [Ultralytics.](https://docs.ultralytics.com/quickstart/#install-ultralytics)
+
+```
+# Install the ultralytics package from PyPI
+pip install ultralytics
+```
 
 ---
 ## Key Features
@@ -51,7 +57,7 @@ Caregiver and Educator Support: The system provides resources and training for c
 
    ---
 
-### Members Linkedin:
+### Team Members & Linkedin:
 
 - [Abdullah Althobaiti](https://www.linkedin.com/in/abdullah-althobaiti-0146702a6)
 
