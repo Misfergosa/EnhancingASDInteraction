@@ -30,11 +30,13 @@ pip install ultralytics
 ```
 
 ---
-## Key Features
-Personalized Interaction: The robot can be customized to suit the individual's preference.
-Emotional and Social Skills Development: The robot is designed to help individuals with ASD develop essential emotional and social skills.
-Sensory-Friendly Design: The robot incorporates sensory-friendly features, such as adjustable lighting, sound, and movement for individuals with ASD.
-Caregiver and Educator Support: The system provides resources and training for caregivers, teachers, and other professionals to effectively integrate the robot into various settings and support individuals with ASD in their interactions.
+## DEMO
+
+
+
+
+
+
 
 ---
 
