@@ -11,7 +11,7 @@
 # Enhancing ASD Interaction with a Robot ( رفيقي )
 
 ## Introduction
-This project aims to develop a robot-based system that can improve communication and interaction for individuals with Autism Spectrum Disorder (ASD). The goal is to create a robotic platform that can serve as a trusted companion and facilitate more engaging and meaningful interactions for those with ASD.
+This project aims to develop a robot-based system that can improve communication and interaction for children with Autism Spectrum Disorder (ASD). The goal is to create a robotic companion that can serve as a trusted buddy for more engaging and meaningful interactions for those with ASD.
 
 ---
 
