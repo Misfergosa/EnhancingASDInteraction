@@ -32,7 +32,7 @@ pip install ultralytics
 ## DEMO VIDEO
 
 
-Watch the [Click Here](https://youtu.be/CNeZmtb44yQ) to see the project in action.
+[![Robot Demo](https://raw.githubusercontent.com/username/repository/branch/path/to/thumbnail.jpg)](https://raw.githubusercontent.com/username/repository/branch/path/to/video.mp4)
 
 
 
