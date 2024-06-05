@@ -41,18 +41,17 @@ pip install ultralytics
 ## Usage
 
 #### Personalization:
-- Work with the project team to customize the robot's appearance, voice, and interaction style to match the individual's preferences and needs.
+- customizing the robot's appearance, voice, and interaction style to match the individual's preferences and needs.
 - Familiarize the individual with the robot and encourage them to engage in regular interactions.
 #### Emotional and Social Skills Development:
 - Utilize the robot's interactive features and software to practice emotional recognition, social cues, and conversational skills.
 - Participate in guided activities and exercises designed to gradually build the individual's confidence and competence in social interactions.
 #### Sensory-Friendly Environment:
 - Ensure the environment where the robot is used is optimized for sensory comfort, following the project's guidelines.
-- Collaborate with the project team to make any necessary adjustments to the robot's own sensory features to create a calming and focused atmosphere.
+- create a calming and focused atmosphere.
 #### Caregiver and Educator Support:
-- Engage with the educational materials and training workshops provided by the project team.
+- educational materials and training workshops provided by the robot functions.
 - Implement the strategies and techniques learned to effectively support the individual with ASD in their interactions with the robot and in other social settings.
-- Communicate with the project team to share feedback and contribute to the ongoing development of the system.
 
 
    ---
