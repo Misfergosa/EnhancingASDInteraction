@@ -5,7 +5,6 @@
 
 
 
-
 ---
 
 
@@ -30,11 +29,10 @@ pip install ultralytics
 ```
 
 ---
-## DEMO
+## DEMO VIDEO
 
 
-
-
+Watch the [Click Here](https://youtu.be/CNeZmtb44yQ) to see the project in action.
 
 
 
