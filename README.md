@@ -29,7 +29,7 @@ pip install ultralytics
 ```
 
 ---
-## DEMO VIDEO
+## Demo Video
 
 
 [![Watch the video](https://raw.githubusercontent.com/Misfergosa/EnhancingASDInteraction/main/RobotInteracting/thumbnail.jpg)](https://raw.githubusercontent.com/Misfergosa/EnhancingASDInteraction/main/RobotInteracting/Demo.mov)
